@@ -1,0 +1,18 @@
+.firstLetter:first-letter{
+	font-size: 200%;
+	color: #e44;
+}
+#listeAcrostiche{
+	list-style-type: none;
+	margin-left:0;
+	padding-left:0;
+}
+#listeAcrostiche li{
+	margin-left:0;
+}
+#blocAcrostiche input, #blocAcrostiche label{
+	font-size: 150% !important;
+}
+#boutonGenererAcrostiche, #resultatAcrostiche{
+	margin-left: 32%;
+}
