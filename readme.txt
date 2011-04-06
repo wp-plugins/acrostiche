@@ -22,6 +22,6 @@ Ce plugin fait des acrostiches en français. A partir d'un prénom il donne une 
 
 == Screenshots ==
 
-1. Generated acrostic in french: screenshot-acrostiche-mathieu.png
+1. Generated acrostic in french: screenshot-1.png
 
 
