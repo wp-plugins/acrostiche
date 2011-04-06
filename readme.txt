@@ -1,9 +1,13 @@
 === Plugin Name ===
-Contributors: martouf
+Contributors: Martouf
+Plugin Name: Acristiche
+Plugin URI: http://martouf.ch/document/88-liste-de-qualites.html
+Author: Martouf
+Author URI: http://www.ecodev.ch/
 Donate link: http://martouf.ch/document/32-mathieu-despont.html
 Tags: acrostiche, acrostic, qualité, prénom, firstname,
-Requires at least: 2.0.2
-Tested up to: 3.0
+Requires at least: 3.0
+Tested up to: 3.1
 Stable tag: 3.0
 
 This plugin generate an acrostic in french based on a first name.
@@ -22,6 +26,10 @@ Ce plugin fait des acrostiches en français. A partir d'un prénom il donne une 
 
 == Screenshots ==
 
-1. Generated acrostic in french: screenshot-1.png
+1. Generated acrostic in french
 
+== Changelog ==
 
+= Version 1.0 = 
+
+* Initial release
