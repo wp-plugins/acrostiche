@@ -7,7 +7,7 @@ Author URI: http://www.ecodev.ch/
 Donate link: http://martouf.ch/document/32-mathieu-despont.html
 Tags: acrostiche, acrostic, qualité, prénom, firstname,
 Requires at least: 3.0
-Tested up to: 3.1
+Tested up to: 4.3
 Stable tag: 3.0
 
 This plugin generate an acrostic in french based on a first name.
